@@ -1,0 +1,8033 @@
+{
+  "orderBook": {
+    "price": 1.75484,
+    "bucketWidth": "0.0005",
+    "buckets": [
+      {
+        "price": 0,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 0.2,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.261,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.44,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.5575,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.624,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 0.634,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 0.64,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 0.681,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.7475,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 0.8075,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.8695,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.911,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.92,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.9365,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.938,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.9415,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.95,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.954,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.956,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.957,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.96,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.966,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.9685,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.97,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.985,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.9875,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.9905,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 0.992,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1,
+        "longCountPercent": 28.32,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.001,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.004,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0075,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.009,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.016,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.017,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.019,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.022,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.023,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.024,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0245,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.025,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.027,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.03,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0305,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.031,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0315,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.033,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0345,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0365,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0375,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.038,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.039,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0395,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.04,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0405,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0415,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.043,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.044,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.045,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.046,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0465,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.05,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.053,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.054,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0565,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.057,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0585,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.06,
+        "longCountPercent": 12.87,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0605,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0635,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0655,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.066,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0685,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0725,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0775,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.078,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.08,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.081,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.084,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.089,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.093,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.094,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.0995,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1035,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1045,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.106,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.108,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.109,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.111,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1115,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.113,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.114,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1145,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1155,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.117,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1185,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1205,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.121,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.122,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1225,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1235,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.125,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1255,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.127,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.129,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1295,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1335,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.137,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1375,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.141,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1435,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.146,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.148,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1485,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.152,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1525,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1535,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.155,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.16,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1705,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.172,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.173,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.174,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1765,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1805,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1815,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.1835,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.198,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.2,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.2185,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.223,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.224,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.226,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.233,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.241,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.263,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.2645,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.265,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.279,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.289,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.2925,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.301,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3035,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.312,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3125,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.317,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.322,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.323,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.325,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.337,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3375,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3435,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.345,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.35,
+        "longCountPercent": 20.6,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.351,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3515,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.354,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.358,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.36,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3625,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3655,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3665,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3695,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.372,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.378,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.381,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.382,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3825,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.383,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3885,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.39,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.395,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.396,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.3975,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.402,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.404,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.405,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4055,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4075,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4095,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.41,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.411,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4115,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.415,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.418,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.42,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.422,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4225,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.425,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.426,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4275,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.428,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4285,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.43,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.431,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4315,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4365,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.438,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4385,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4395,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4425,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.443,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4435,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.446,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.45,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.453,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4535,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.454,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4545,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.455,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.456,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4575,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.458,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4585,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.46,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4605,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4615,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.462,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4625,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.463,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.466,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4665,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4695,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.47,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.471,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.4785,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4795,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.48,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4825,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4835,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4895,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4985,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4995,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5,
+        "longCountPercent": 30.9,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.501,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5025,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.507,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5145,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.516,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5205,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.522,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.525,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.528,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5305,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.531,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5345,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.545,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.547,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5485,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.549,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.55,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.5505,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5525,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.554,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.555,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5555,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.557,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.559,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5645,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.565,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5655,
+        "longCountPercent": 23.17,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.567,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.568,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5685,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.57,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5715,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.572,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5735,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5785,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.579,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.58,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.581,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5825,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.584,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.585,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5855,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.588,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5885,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.589,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.59,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.591,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5925,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.593,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.5945,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.595,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5955,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.596,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.5965,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.597,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5975,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.598,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.5985,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.6005,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.601,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.602,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6025,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.6035,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6045,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6055,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6065,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6075,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.608,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6085,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.61,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.611,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6115,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.612,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6125,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.613,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6135,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.614,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6145,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.615,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6155,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.616,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.6165,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.617,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6175,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.6185,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6195,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.62,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6205,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.621,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.622,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6225,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6235,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6245,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.625,
+        "longCountPercent": 18.02,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.626,
+        "longCountPercent": 20.6,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6265,
+        "longCountPercent": 64.37,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.627,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6285,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.63,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6315,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.632,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6335,
+        "longCountPercent": 15.45,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.634,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6345,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.635,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6355,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.636,
+        "longCountPercent": 12.87,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6365,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.637,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.638,
+        "longCountPercent": 15.45,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6385,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.639,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.64,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6405,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.641,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.642,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6425,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.644,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.645,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6455,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.6465,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.647,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6495,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.65,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6505,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.652,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6525,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.653,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.6545,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.655,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6555,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.656,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.657,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6575,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.658,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6585,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.659,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6595,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.66,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6605,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.661,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6615,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.663,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6635,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.664,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.666,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6665,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.667,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.668,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.67,
+        "longCountPercent": 64.37,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6705,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.6715,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.672,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6725,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.673,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.674,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.6745,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6755,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.676,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6765,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.677,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.6775,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.678,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6785,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.679,
+        "longCountPercent": 0,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.6795,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.68,
+        "longCountPercent": 54.07,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6805,
+        "longCountPercent": 12.87,
+        "shortCountPercent": 20.6
+      },
+      {
+        "price": 1.681,
+        "longCountPercent": 0,
+        "shortCountPercent": 69.52
+      },
+      {
+        "price": 1.6815,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 33.47
+      },
+      {
+        "price": 1.682,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.6825,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.683,
+        "longCountPercent": 0,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.6835,
+        "longCountPercent": 0,
+        "shortCountPercent": 28.32
+      },
+      {
+        "price": 1.684,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.6845,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.685,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6855,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.688,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 66.94
+      },
+      {
+        "price": 1.6885,
+        "longCountPercent": 0,
+        "shortCountPercent": 193.1
+      },
+      {
+        "price": 1.689,
+        "longCountPercent": 0,
+        "shortCountPercent": 368.18
+      },
+      {
+        "price": 1.6895,
+        "longCountPercent": 0,
+        "shortCountPercent": 169.93
+      },
+      {
+        "price": 1.69,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 74.67
+      },
+      {
+        "price": 1.6905,
+        "longCountPercent": 0,
+        "shortCountPercent": 128.73
+      },
+      {
+        "price": 1.691,
+        "longCountPercent": 0,
+        "shortCountPercent": 20.6
+      },
+      {
+        "price": 1.6915,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.692,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 41.19
+      },
+      {
+        "price": 1.6925,
+        "longCountPercent": 0,
+        "shortCountPercent": 46.34
+      },
+      {
+        "price": 1.693,
+        "longCountPercent": 0,
+        "shortCountPercent": 43.77
+      },
+      {
+        "price": 1.6935,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.694,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 66.94
+      },
+      {
+        "price": 1.6945,
+        "longCountPercent": 0,
+        "shortCountPercent": 69.52
+      },
+      {
+        "price": 1.695,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.6955,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.696,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.697,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.698,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.6985,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6995,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.7,
+        "longCountPercent": 28.32,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7005,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.701,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.702,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.703,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.704,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7045,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.705,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.7055,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.706,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7065,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.707,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7075,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.708,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7085,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7095,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.71,
+        "longCountPercent": 20.6,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.711,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.713,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.714,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7145,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.715,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.7155,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7165,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.718,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7185,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7195,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.72,
+        "longCountPercent": 36.05,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.7205,
+        "longCountPercent": 12.87,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.721,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7215,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.722,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.723,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.7235,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.724,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7245,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.725,
+        "longCountPercent": 25.75,
+        "shortCountPercent": 23.17
+      },
+      {
+        "price": 1.7255,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 36.05
+      },
+      {
+        "price": 1.726,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7265,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.727,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7275,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.728,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7285,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.729,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7295,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.73,
+        "longCountPercent": 51.49,
+        "shortCountPercent": 20.6
+      },
+      {
+        "price": 1.7305,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.731,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7315,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.732,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7325,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.733,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7335,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7345,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.735,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.7355,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.736,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7365,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.737,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.7375,
+        "longCountPercent": 15.45,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.738,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7385,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.739,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.74,
+        "longCountPercent": 30.9,
+        "shortCountPercent": 15.45
+      },
+      {
+        "price": 1.7405,
+        "longCountPercent": 15.45,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.741,
+        "longCountPercent": 28.32,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.7415,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.742,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.7425,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.743,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7435,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.744,
+        "longCountPercent": 15.45,
+        "shortCountPercent": 15.45
+      },
+      {
+        "price": 1.7445,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.745,
+        "longCountPercent": 23.17,
+        "shortCountPercent": 41.19
+      },
+      {
+        "price": 1.7455,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.746,
+        "longCountPercent": 18.02,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.7465,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.747,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 15.45
+      },
+      {
+        "price": 1.7475,
+        "longCountPercent": 30.9,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.748,
+        "longCountPercent": 28.32,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.7485,
+        "longCountPercent": 25.75,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.749,
+        "longCountPercent": 23.17,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.7495,
+        "longCountPercent": 33.47,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.75,
+        "longCountPercent": 48.92,
+        "shortCountPercent": 151.91
+      },
+      {
+        "price": 1.7505,
+        "longCountPercent": 20.6,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.751,
+        "longCountPercent": 25.75,
+        "shortCountPercent": 30.9
+      },
+      {
+        "price": 1.7515,
+        "longCountPercent": 23.17,
+        "shortCountPercent": 15.45
+      },
+      {
+        "price": 1.752,
+        "longCountPercent": 30.9,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.7525,
+        "longCountPercent": 38.62,
+        "shortCountPercent": 131.31
+      },
+      {
+        "price": 1.753,
+        "longCountPercent": 30.9,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.7535,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.754,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.755,
+        "longCountPercent": 0,
+        "shortCountPercent": 20.6
+      },
+      {
+        "price": 1.7555,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 15.45
+      },
+      {
+        "price": 1.756,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 15.45
+      },
+      {
+        "price": 1.7565,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 23.17
+      },
+      {
+        "price": 1.757,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 20.6
+      },
+      {
+        "price": 1.7575,
+        "longCountPercent": 0,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.758,
+        "longCountPercent": 12.87,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.7585,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 36.05
+      },
+      {
+        "price": 1.759,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 46.34
+      },
+      {
+        "price": 1.7595,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 33.47
+      },
+      {
+        "price": 1.76,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 23.17
+      },
+      {
+        "price": 1.7605,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.761,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.7615,
+        "longCountPercent": 0,
+        "shortCountPercent": 36.05
+      },
+      {
+        "price": 1.762,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.7625,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.763,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.7635,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.764,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.7645,
+        "longCountPercent": 0,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.765,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 23.17
+      },
+      {
+        "price": 1.7655,
+        "longCountPercent": 0,
+        "shortCountPercent": 20.6
+      },
+      {
+        "price": 1.766,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 15.45
+      },
+      {
+        "price": 1.7665,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 28.32
+      },
+      {
+        "price": 1.767,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 33.47
+      },
+      {
+        "price": 1.7675,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.768,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 23.17
+      },
+      {
+        "price": 1.7685,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.769,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 23.17
+      },
+      {
+        "price": 1.7695,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.77,
+        "longCountPercent": 25.75,
+        "shortCountPercent": 48.92
+      },
+      {
+        "price": 1.7705,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 28.32
+      },
+      {
+        "price": 1.771,
+        "longCountPercent": 0,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.7715,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 23.17
+      },
+      {
+        "price": 1.772,
+        "longCountPercent": 0,
+        "shortCountPercent": 84.96
+      },
+      {
+        "price": 1.7725,
+        "longCountPercent": 0,
+        "shortCountPercent": 43.77
+      },
+      {
+        "price": 1.773,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 20.6
+      },
+      {
+        "price": 1.7735,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.774,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 59.22
+      },
+      {
+        "price": 1.7745,
+        "longCountPercent": 0,
+        "shortCountPercent": 74.67
+      },
+      {
+        "price": 1.775,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 54.07
+      },
+      {
+        "price": 1.7755,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 33.47
+      },
+      {
+        "price": 1.776,
+        "longCountPercent": 0,
+        "shortCountPercent": 48.92
+      },
+      {
+        "price": 1.7765,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 66.94
+      },
+      {
+        "price": 1.777,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 69.52
+      },
+      {
+        "price": 1.7775,
+        "longCountPercent": 0,
+        "shortCountPercent": 38.62
+      },
+      {
+        "price": 1.778,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.7785,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.779,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 79.81
+      },
+      {
+        "price": 1.7795,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 213.7
+      },
+      {
+        "price": 1.78,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 396.5
+      },
+      {
+        "price": 1.7805,
+        "longCountPercent": 0,
+        "shortCountPercent": 169.93
+      },
+      {
+        "price": 1.781,
+        "longCountPercent": 0,
+        "shortCountPercent": 87.54
+      },
+      {
+        "price": 1.7815,
+        "longCountPercent": 0,
+        "shortCountPercent": 136.46
+      },
+      {
+        "price": 1.782,
+        "longCountPercent": 0,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.7825,
+        "longCountPercent": 0,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.783,
+        "longCountPercent": 0,
+        "shortCountPercent": 46.34
+      },
+      {
+        "price": 1.7835,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 56.64
+      },
+      {
+        "price": 1.784,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 54.07
+      },
+      {
+        "price": 1.7845,
+        "longCountPercent": 0,
+        "shortCountPercent": 38.62
+      },
+      {
+        "price": 1.785,
+        "longCountPercent": 0,
+        "shortCountPercent": 72.09
+      },
+      {
+        "price": 1.7855,
+        "longCountPercent": 0,
+        "shortCountPercent": 72.09
+      },
+      {
+        "price": 1.786,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.7865,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.787,
+        "longCountPercent": 0,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.7875,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.788,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.7885,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.789,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.7895,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.79,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.7905,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.791,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.7915,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.792,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.7925,
+        "longCountPercent": 0,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.793,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.7935,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.794,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.7945,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.795,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.7955,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.7965,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.797,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.7975,
+        "longCountPercent": 12.87,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.798,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 33.47
+      },
+      {
+        "price": 1.7985,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.799,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7995,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.8,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 25.75
+      },
+      {
+        "price": 1.8005,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8015,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.8025,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.803,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8035,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.804,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8045,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.805,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.8055,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.806,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.807,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8075,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.808,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.8085,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.809,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8095,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.81,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8105,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8115,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.8125,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.813,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8135,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8145,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.815,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.8155,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.816,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.817,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8175,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.818,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8185,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.819,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 1.8195,
+        "longCountPercent": 0,
+        "shortCountPercent": 23.17
+      },
+      {
+        "price": 1.82,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.8205,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.821,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8215,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.822,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8225,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.823,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8255,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.826,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8265,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8275,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.828,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8285,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.829,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.83,
+        "longCountPercent": 0,
+        "shortCountPercent": 18.02
+      },
+      {
+        "price": 1.831,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.832,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8325,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8335,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.835,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.836,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8365,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.838,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8385,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.8395,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.84,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8405,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.841,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8415,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.842,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8425,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.843,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.844,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8445,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8455,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8465,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.847,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.848,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.849,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8495,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.85,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8505,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8515,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.852,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8525,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.853,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8535,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.854,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8545,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.855,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.8555,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.856,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8565,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8575,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.858,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8585,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.859,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.86,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.862,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8625,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.87
+      },
+      {
+        "price": 1.863,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.87,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.8705,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.872,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8725,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.874,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.875,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8785,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.88,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.881,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.8825,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.884,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.886,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.89,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.893,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.895,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.896,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.9,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.9025,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.905,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.906,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.91,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.915,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.918,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.9185,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.92,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.923,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.925,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.93,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.931,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.935,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.94,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.9405,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.945,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.95,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.9545,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.955,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.956,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.9565,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.9585,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.9595,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.96,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.9625,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.964,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.965,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.967,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.9695,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.972,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 1.9725,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.973,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.975,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.9795,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.98,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.981,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 1.9835,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 1.997,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 2.004,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.006,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.0135,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.0145,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.0305,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.032,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.038,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.039,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.0405,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.041,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.0425,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.0455,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.047,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.0615,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.07,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.073,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.076,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.0785,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.094,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.095,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.1,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.1055,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.123,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.157,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.16,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.1695,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.1735,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 2.176,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.189,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2055,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.22,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2205,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2265,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2335,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.243,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2445,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2455,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.246,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.25,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.253,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2535,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.255,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.26,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2605,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 2.261,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.27,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2715,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2735,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.277,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 2.28,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.286,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2865,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.288,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.2975,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.3015,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.303,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.309,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3165,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.32,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.321,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.324,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.325,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3265,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3275,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.328,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3315,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3385,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.339,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.34,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.342,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.343,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.359,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.36,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.3665,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3685,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.369,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.37,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.371,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.372,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.376,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3765,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.38,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3815,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.384,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3905,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.391,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.394,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.398,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3985,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.3995,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.4,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.406,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.4135,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.42,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.43,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.4315,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.45,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 2.4505,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.4685,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.475,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.4765,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.479,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.48,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.4835,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.4905,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.4915,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.5,
+        "longCountPercent": 10.3,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 2.5025,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.5055,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.507,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.513,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.52,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.536,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.54,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.72
+      },
+      {
+        "price": 2.55,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.557,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.559,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.56,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.3
+      },
+      {
+        "price": 2.57,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.5705,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.5765,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.5785,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.58,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.5855,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.5955,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.606,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.6165,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.62,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.621,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.6285,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.6335,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.6375,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.64,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.646,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.6465,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.6525,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.66,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.664,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.669,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.6765,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.6815,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.689,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.704,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.7065,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.7365,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.746,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.773,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.7785,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.8215,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 2.8695,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 3,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 3.3325,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 7.32,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 7.5,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 7.782,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 10,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.15
+      },
+      {
+        "price": 15,
+        "longCountPercent": 5.15,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 17.622,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 25.4515,
+        "longCountPercent": 7.72,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 80,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 100,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 119.891,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 200,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 250,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 5000,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 15714.3465,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 27412.8,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 145889,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.57
+      },
+      {
+        "price": 165692,
+        "longCountPercent": 2.57,
+        "shortCountPercent": 0
+      }
+    ],
+    "region": "-",
+    "division": "-",
+    "dataSource": "-",
+    "snapshot": "12月8日 15時00分",
+    "lastupdate": "12月8日 15時30分",
+    "longPercent": 32.58,
+    "shortPercent": 67.42
+  },
+  "positionBook": {
+    "price": 1.75484,
+    "bucketWidth": "0.0005",
+    "buckets": [
+      {
+        "price": 1.183,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.1965,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.23,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.2355,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.24,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.2525,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.3355,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.3365,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.369,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.3795,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.38,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.381,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.3825,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.384,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.387,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.3915,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.3925,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.393,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.394,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.395,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.396,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.397,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.398,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.399,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.3995,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4015,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.403,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4035,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.405,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.407,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.409,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.41,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4105,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.411,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.4125,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.4145,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.415,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.416,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.417,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4175,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.418,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4185,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.419,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.42,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.421,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.422,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.423,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.424,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.425,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.426,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4285,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.43,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.431,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.4315,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4335,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.434,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4375,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.4385,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.4395,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.442,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.444,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.445,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4455,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.446,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.4465,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.4515,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4525,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.453,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.454,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.456,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.4565,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.457,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.4575,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.459,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4595,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.46,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.4605,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.461,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4615,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.462,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.464,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.4645,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.465,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.4665,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.467,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.4675,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4685,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.469,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4695,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.47,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4705,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.471,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.4725,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.475,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4795,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.48,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4815,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.482,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.4825,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.483,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.484,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4845,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.488,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.489,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.49,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.491,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4915,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.492,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.4965,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.501,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5015,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.506,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.507,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.5075,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.508,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.509,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5095,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.512,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5125,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.515,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.519,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.52,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5205,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5225,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.527,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.528,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5285,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.529,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5325,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.534,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.536,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.5365,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.537,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5375,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5385,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.539,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.54,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.541,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5415,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.542,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.5425,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.544,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.545,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.5455,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.546,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5465,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.548,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5485,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.549,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.55,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5505,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5525,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.553,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5535,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.554,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.5545,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5555,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.556,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5565,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.557,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5575,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.558,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.5585,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.559,
+        "longCountPercent": 12.7,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5595,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.56,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.5605,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.561,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.5615,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.562,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5625,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.5635,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.565,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.5655,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.566,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.5665,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.5675,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.568,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.5695,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.57,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.5705,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.571,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.5715,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.572,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.5725,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.573,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.5735,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.574,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.575,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.5755,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.576,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.577,
+        "longCountPercent": 10.16,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5775,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.578,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5785,
+        "longCountPercent": 0,
+        "shortCountPercent": 27.94
+      },
+      {
+        "price": 1.579,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.5795,
+        "longCountPercent": 0,
+        "shortCountPercent": 38.1
+      },
+      {
+        "price": 1.58,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.5805,
+        "longCountPercent": 15.24,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.581,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.5815,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.582,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.5825,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5835,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.584,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.585,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.5855,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.586,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.5865,
+        "longCountPercent": 0,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.587,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5875,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.588,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.5885,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.589,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5895,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.59,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5905,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.5915,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.592,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.593,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5945,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.595,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.5965,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.597,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.5975,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.598,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.599,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.6,
+        "longCountPercent": 0,
+        "shortCountPercent": 33.02
+      },
+      {
+        "price": 1.6005,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.601,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.6015,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.602,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6025,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.603,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.6035,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.604,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6045,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.605,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6055,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 22.86
+      },
+      {
+        "price": 1.606,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.607,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6075,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.608,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6085,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.609,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.6095,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.61,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6105,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6115,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.612,
+        "longCountPercent": 0,
+        "shortCountPercent": 22.86
+      },
+      {
+        "price": 1.6125,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6135,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.614,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6145,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6155,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.616,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6165,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.617,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6175,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.618,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6185,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.619,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6195,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.62,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6205,
+        "longCountPercent": 0,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.621,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.6215,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.622,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6225,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.623,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6235,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.624,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6245,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 22.86
+      },
+      {
+        "price": 1.625,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6255,
+        "longCountPercent": 81.28,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.626,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6265,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.627,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6275,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6285,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.629,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6295,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6305,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6315,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.632,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6325,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.633,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6335,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.634,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6345,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.635,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6355,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.636,
+        "longCountPercent": 0,
+        "shortCountPercent": 27.94
+      },
+      {
+        "price": 1.6365,
+        "longCountPercent": 0,
+        "shortCountPercent": 22.86
+      },
+      {
+        "price": 1.637,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.6375,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.638,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.6385,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.639,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.6395,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.64,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6405,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6415,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.642,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.643,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6435,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.644,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6445,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.645,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.6455,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6465,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.647,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.6475,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.648,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6485,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.649,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6495,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.65,
+        "longCountPercent": 0,
+        "shortCountPercent": 22.86
+      },
+      {
+        "price": 1.6505,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.651,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6515,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.652,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6525,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.653,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.654,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6545,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.655,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6555,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.656,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6565,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.657,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6575,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.658,
+        "longCountPercent": 0,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.6585,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.659,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.6595,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.66,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.6605,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.661,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.6615,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.662,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.6625,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.663,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.6635,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.664,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.665,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6655,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6665,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.667,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.6675,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.668,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.6685,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6695,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.67,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6705,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.671,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.6715,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.672,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6725,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.673,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6735,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.674,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6745,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.675,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6765,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.677,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.678,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6785,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.679,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6795,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.68,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6805,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.6815,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.682,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6825,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.683,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.684,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.686,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6865,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6875,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.688,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6885,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.689,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.69,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.6905,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.691,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6915,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.692,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6935,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.694,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6945,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.695,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.6955,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.696,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.697,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.699,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.6995,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7,
+        "longCountPercent": 0,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.7005,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7015,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.702,
+        "longCountPercent": 0,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.7025,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.703,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.7035,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.704,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7045,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.705,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7055,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.706,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7065,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.707,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7075,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.708,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7085,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.709,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7095,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.71,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.7105,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.711,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7115,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.712,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7125,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.713,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7135,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7145,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.715,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.716,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7165,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.717,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7175,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.718,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7185,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.719,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7195,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.72,
+        "longCountPercent": 0,
+        "shortCountPercent": 27.94
+      },
+      {
+        "price": 1.7205,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.721,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7215,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.722,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7225,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.723,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7235,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.724,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7245,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.725,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.7255,
+        "longCountPercent": 0,
+        "shortCountPercent": 25.4
+      },
+      {
+        "price": 1.726,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7265,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.727,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7275,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.728,
+        "longCountPercent": 0,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.7285,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.729,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.7295,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.73,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7305,
+        "longCountPercent": 0,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.731,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7315,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.732,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7325,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.733,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7335,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.734,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7345,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.735,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.7355,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.736,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.7365,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.737,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7375,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.738,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7385,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.739,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7395,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.74,
+        "longCountPercent": 0,
+        "shortCountPercent": 25.4
+      },
+      {
+        "price": 1.7405,
+        "longCountPercent": 0,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.741,
+        "longCountPercent": 0,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.7415,
+        "longCountPercent": 0,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.742,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.743,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7435,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.744,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.7445,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.745,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7455,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.746,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7465,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.747,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7475,
+        "longCountPercent": 0,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.748,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7485,
+        "longCountPercent": 0,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.749,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7495,
+        "longCountPercent": 0,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.75,
+        "longCountPercent": 0,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.7505,
+        "longCountPercent": 0,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.751,
+        "longCountPercent": 0,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.7515,
+        "longCountPercent": 0,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.752,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.7525,
+        "longCountPercent": 0,
+        "shortCountPercent": 175.26
+      },
+      {
+        "price": 1.753,
+        "longCountPercent": 35.56,
+        "shortCountPercent": 96.52
+      },
+      {
+        "price": 1.7535,
+        "longCountPercent": 104.14,
+        "shortCountPercent": 129.54
+      },
+      {
+        "price": 1.754,
+        "longCountPercent": 147.32,
+        "shortCountPercent": 111.76
+      },
+      {
+        "price": 1.7545,
+        "longCountPercent": 81.28,
+        "shortCountPercent": 30.48
+      },
+      {
+        "price": 1.755,
+        "longCountPercent": 223.52,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.7555,
+        "longCountPercent": 68.58,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.756,
+        "longCountPercent": 63.5,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.7565,
+        "longCountPercent": 22.86,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.757,
+        "longCountPercent": 33.02,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7575,
+        "longCountPercent": 182.88,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.758,
+        "longCountPercent": 40.64,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7585,
+        "longCountPercent": 22.86,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.759,
+        "longCountPercent": 20.32,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7595,
+        "longCountPercent": 12.7,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.76,
+        "longCountPercent": 35.56,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.7605,
+        "longCountPercent": 45.72,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.761,
+        "longCountPercent": 38.1,
+        "shortCountPercent": 35.56
+      },
+      {
+        "price": 1.7615,
+        "longCountPercent": 43.18,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.762,
+        "longCountPercent": 43.18,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.7625,
+        "longCountPercent": 160.02,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.763,
+        "longCountPercent": 35.56,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7635,
+        "longCountPercent": 33.02,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.764,
+        "longCountPercent": 22.86,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.7645,
+        "longCountPercent": 35.56,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.765,
+        "longCountPercent": 30.48,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.7655,
+        "longCountPercent": 17.78,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.766,
+        "longCountPercent": 22.86,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7665,
+        "longCountPercent": 45.72,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.767,
+        "longCountPercent": 35.56,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.7675,
+        "longCountPercent": 10.16,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.768,
+        "longCountPercent": 17.78,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7685,
+        "longCountPercent": 27.94,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.769,
+        "longCountPercent": 71.12,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.7695,
+        "longCountPercent": 38.1,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.77,
+        "longCountPercent": 76.2,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.7705,
+        "longCountPercent": 48.26,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.771,
+        "longCountPercent": 101.6,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.7715,
+        "longCountPercent": 50.8,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.772,
+        "longCountPercent": 43.18,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.7725,
+        "longCountPercent": 180.34,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.773,
+        "longCountPercent": 48.26,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7735,
+        "longCountPercent": 55.88,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.774,
+        "longCountPercent": 38.1,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7745,
+        "longCountPercent": 22.86,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.775,
+        "longCountPercent": 152.4,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.7755,
+        "longCountPercent": 27.94,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.776,
+        "longCountPercent": 50.8,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.7765,
+        "longCountPercent": 20.32,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.777,
+        "longCountPercent": 12.7,
+        "shortCountPercent": 43.18
+      },
+      {
+        "price": 1.7775,
+        "longCountPercent": 17.78,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.778,
+        "longCountPercent": 81.28,
+        "shortCountPercent": 20.32
+      },
+      {
+        "price": 1.7785,
+        "longCountPercent": 213.36,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.779,
+        "longCountPercent": 381,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7795,
+        "longCountPercent": 172.72,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.78,
+        "longCountPercent": 83.82,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.7805,
+        "longCountPercent": 149.86,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.781,
+        "longCountPercent": 35.56,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7815,
+        "longCountPercent": 22.86,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.782,
+        "longCountPercent": 63.5,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7825,
+        "longCountPercent": 60.96,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.783,
+        "longCountPercent": 71.12,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7835,
+        "longCountPercent": 17.78,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.784,
+        "longCountPercent": 76.2,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7845,
+        "longCountPercent": 73.66,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.785,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7855,
+        "longCountPercent": 12.7,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.786,
+        "longCountPercent": 17.78,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7865,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.787,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 35.56
+      },
+      {
+        "price": 1.7875,
+        "longCountPercent": 15.24,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.788,
+        "longCountPercent": 22.86,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7885,
+        "longCountPercent": 10.16,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.789,
+        "longCountPercent": 25.4,
+        "shortCountPercent": 10.16
+      },
+      {
+        "price": 1.7895,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 12.7
+      },
+      {
+        "price": 1.79,
+        "longCountPercent": 22.86,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7905,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.791,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7915,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.792,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7925,
+        "longCountPercent": 10.16,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.793,
+        "longCountPercent": 12.7,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7935,
+        "longCountPercent": 15.24,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.794,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.7945,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.795,
+        "longCountPercent": 20.32,
+        "shortCountPercent": 15.24
+      },
+      {
+        "price": 1.7955,
+        "longCountPercent": 10.16,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.796,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7965,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.797,
+        "longCountPercent": 10.16,
+        "shortCountPercent": 17.78
+      },
+      {
+        "price": 1.7975,
+        "longCountPercent": 10.16,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.798,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.7985,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.799,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.7995,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.801,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8015,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.802,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8025,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8035,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.804,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8045,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.805,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.8055,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.806,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.807,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 7.62
+      },
+      {
+        "price": 1.808,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.8085,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.809,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.8095,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.81,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.8105,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8115,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.812,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.813,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8135,
+        "longCountPercent": 10.16,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.814,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8145,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.815,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.8155,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8175,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.818,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8185,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.819,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8195,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.822,
+        "longCountPercent": 0,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.8245,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 5.08
+      },
+      {
+        "price": 1.825,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8255,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.826,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8265,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8275,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8285,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8295,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.83,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8305,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8315,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8335,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8355,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.836,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.837,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.838,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8395,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.84,
+        "longCountPercent": 0,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.8405,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 2.54
+      },
+      {
+        "price": 1.842,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8435,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.844,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8445,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8465,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8485,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.85,
+        "longCountPercent": 7.62,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8505,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.852,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8525,
+        "longCountPercent": 5.08,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.853,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.854,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.856,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.872,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.8725,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      },
+      {
+        "price": 1.988,
+        "longCountPercent": 2.54,
+        "shortCountPercent": 0
+      }
+    ],
+    "region": "-",
+    "division": "-",
+    "dataSource": "-",
+    "snapshot": "12月8日 15時00分",
+    "lastupdate": "12月8日 15時30分",
+    "longPercent": 52.48,
+    "shortPercent": 47.52
+  }
+}
